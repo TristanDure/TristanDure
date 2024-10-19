@@ -15,4 +15,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a><img align="center" src="https://raw.githubusercontent.com/TristanDure/TristanDure/main/images/java.svg" alt="codeforces"  height="30" width="40" /></a>
+  <a><img align="center" src="https://raw.githubusercontent.com/TristanDure/TristanDure/main/images/c.svg" alt="codeforces"  height="30" width="40" /></a>
+  <a><img align="center" src="https://raw.githubusercontent.com/TristanDure/TristanDure/main/images/mysql.svg" alt="codeforces"  height="30" width="40" /></a>
+  <a><img align="center" src="https://raw.githubusercontent.com/TristanDure/TristanDure/main/images/pr.svg" alt="codeforces"  height="30" width="40" /></a>
+  <a><img align="center" src="https://raw.githubusercontent.com/TristanDure/TristanDure/main/images/ps.svg" alt="codeforces"  height="30" width="40" /></a>
+  <a><img align="center" src="https://raw.githubusercontent.com/TristanDure/TristanDure/main/images/ae.svg" alt="codeforces"  height="30" width="40" /></a>
 </p>
