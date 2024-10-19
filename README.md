@@ -6,12 +6,10 @@
 - 📫 How to reach me **1098485147@qq.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="middle">
 <a href="https://codeforces.com/profile/TristanDure" target="blank"><img align="center" src="https://raw.githubusercontent.com/TristanDure/TristanDure/main/images/code-forces.svg" alt="codeforces"  height="30" width="40" /></a>
 <a href="https://ac.nowcoder.com/acm/contest/profile/515895564" target="blank"><img align="center" src="https://raw.githubusercontent.com/TristanDure/TristanDure/main/images/下载.png" alt="manishraj27" height="30" width="40" /></a>
 <a href="https://https://space.bilibili.com/73791414?spm_id_from=333.1007.0.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/TristanDure/TristanDure/main/images/bilibili.svg" alt="manish_raj27" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/manish_raj27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manish_raj27" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manish_raj27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manish_raj27" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
