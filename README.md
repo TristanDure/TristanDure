@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/TristanDure/TristanDure/blob/main/images/code-forces.svg" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fart.npanuhin.me%2FSVG%2FCodeforces%2F&psig=AOvVaw0P27u6I3vO7i1kLS9tdrwo&ust=1729411584423000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDzzqz-mYkDFQAAAAAdAAAAABAE" alt="codeforces"  height="30" width="40" /></a>
+<a href="https://raw.githubusercontent.com/TristanDure/TristanDure/main/images/code-forces.svg" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fart.npanuhin.me%2FSVG%2FCodeforces%2F&psig=AOvVaw0P27u6I3vO7i1kLS9tdrwo&ust=1729411584423000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDzzqz-mYkDFQAAAAAdAAAAABAE" alt="codeforces"  height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manishraj27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manishraj27" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/manish_raj27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manish_raj27" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/manish_raj27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manish_raj27" height="30" width="40" /></a>
